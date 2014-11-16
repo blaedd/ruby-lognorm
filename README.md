@@ -31,6 +31,7 @@ ctx.loadSamples('sample.ruleset')
 
 # Feed it a logline, get a ruby hash back
 result = ctx.normalize(log_line)
+```
 
 ## Contributing
 
